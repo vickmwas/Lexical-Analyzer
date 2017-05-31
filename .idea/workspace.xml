@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfaf4921-b4f5-4b7d-be4c-966cffa28f39" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Lexical Analyzer/com/vickmwas/Main.class" afterPath="$PROJECT_DIR$/out/production/Lexical Analyzer/com/vickmwas/Main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lexical.c" afterPath="$PROJECT_DIR$/lexical.c" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/vickmwas/Main.java" afterPath="$PROJECT_DIR$/src/com/vickmwas/Main.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -582,12 +579,12 @@
       <workItem from="1496233320359" duration="1865000" />
       <workItem from="1496240971552" duration="2402000" />
       <workItem from="1496214566784" duration="19694000" />
-      <workItem from="1496244085002" duration="236000" />
+      <workItem from="1496244085002" duration="449000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57252000" />
+    <option name="totallyTimeSpent" value="57465000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
